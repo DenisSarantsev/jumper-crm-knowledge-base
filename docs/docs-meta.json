@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "getting-started": {
+      "title": "Початок роботи",
+      "order": 1,
+      "icon": "🚀"
+    },
+    "companies": {
+      "title": "Компанії", 
+      "order": 2,
+      "icon": "🔧"
+    },
+    "chats": {
+      "title": "Чати",
+      "order": 3,
+      "icon": "📖"
+    }
+  },
+  "articles": {
+    "getting-started/registration": {
+      "title": "Реєстрація в системі"
+    },
+    "getting-started/login": {
+      "title": "Вхід в систему"
+    }
+  }
+}
