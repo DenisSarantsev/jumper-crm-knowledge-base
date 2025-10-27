@@ -5,7 +5,7 @@
 
 
 Структура файлів у GitHub репозиторії:
-docs/
+knowledge/
 ├── knowledge-meta.json # ← Метадані всіх категорій та статей
 ├── getting-started/
 │   ├── installation.md
