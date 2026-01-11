@@ -3,9 +3,9 @@
 На даний момент вхід можливи лише за номером телефону. 
 
 1. Введіть номер телефону у форматі: +380937777777
-![Вікно вводу номеру телефону](/knowledge/getting-started/login/images/get-otp.png)
+![Вікно вводу номеру телефону](/images/get-otp.png)
 2. В телеграм бота Jumper надійде 6-значний OTP код
-![OTP код](/knowledge/getting-started/login/images/otp-code.png)
+![OTP код](./images/otp-code.png)
 3. Введіть код і натисніть "Підтвердити код"
 ![OTP код](/knowledge/getting-started/login/images/enter-otp.png)
 
